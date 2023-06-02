@@ -1,0 +1,12 @@
+order_item_id,order_id,status,amount,event_id
+1,1,Adult,1,8
+1,1,Student,2,8
+2,1,Adult,1,8
+3,2,Adult,1,5
+4,2,Adult,1,7
+5,3,Child,2,8
+6,4,Student,1,8
+7,5,Child,3,9
+8,6,Child,1,6
+9,6,Student,2,4
+10,6,Adult,1,11

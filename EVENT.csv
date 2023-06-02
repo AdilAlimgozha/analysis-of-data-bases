@@ -1,0 +1,13 @@
+event_id,name,venue_id,date,price,seat_amount
+1,Astana FC vs Kairat,1,2023-05-15,15000,100
+2,Almaty Marathon,2,2023-05-21,7000,150
+3,Barys Hockey Game,3,2023-05-25,9500,50,150
+4,National Football Match,1,2023-06-01,12000,150
+5,Saryarka Cycling Race,5,2023-06-10,6000,150
+6,Medeo Figure Skating Championship,6,2023-06-15,9000,150
+7,National Tennis Championship,7,2023-06-20,4000,150
+8,Snow Leopard Ski Race,8,2023-06-25,18000,150
+9,Shymkent Music Festival,9,2023-07-01,2500,150
+10,Kok-Tobe Jazz Night,10,2023-07-10,4000,150
+11,Demon Slayer Movie Premier,12,2023-06-1,2000,150
+12,Swan Lake Ballet,11,2023-05-29,6500,150
